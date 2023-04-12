@@ -1,0 +1,3 @@
+lt --port 5000 --subdomain melanosizer
+
+https://melanosizer.loca.lt
