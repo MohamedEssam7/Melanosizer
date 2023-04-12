@@ -10,6 +10,10 @@ The Melanosizer project uses a combination of technologies and frameworks to ach
 - Flask: Flask is a lightweight web framework that is used for building web applications. It was used in the Melanosizer project to build an API for the model.
 - Python Tkinter: Python Tkinter is a standard GUI (Graphical User Interface) package for Python. It was used in the Melanosizer project to create the graphical user interface for the Raspberry Pi device.
 - Ngrok: Ngrok is a tool that creates a secure tunnel between a local and remote machine, allowing access to the local machine from the internet. It was used in the Melanosizer project to deploy the API.
+## The pipeline for the Melanosizer
+![image](https://user-images.githubusercontent.com/83317285/231586530-1beb5f96-3e77-4c90-bcaa-c0dfecdebb71.png)
+
+
 ## Model Architecture
 The final model used in the Melanosizer project was built using the Resnet-50 architecture. This architecture was modified by adding some regularization techniques to improve the performance of the model. The model was fine-tuned to achieve a private score of 91.5 in the competition.
 ## API
